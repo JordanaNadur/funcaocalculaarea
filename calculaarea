@@ -1,0 +1,22 @@
+       <?php
+
+$figura = $_POST['figura1''figura2''figura3''figura4'];
+
+switch ($figura1) {
+    case "n=1":
+        echo ($_POST['area=1']);
+        break;
+    case "n=2":
+        echo ($_POST['area=5']);
+        break;
+    case "n=3":
+        echo $_POST['area=13'];
+        break;
+   case "n=4":
+        echo (($_POST['area=25];
+        break;
+    default:
+
+}
+
+?>
